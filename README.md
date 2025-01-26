@@ -6,14 +6,13 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS20.P11 - CÁC VẤN ĐỀ CHỌN LỌC TRONG THỊ GIÁC MÁY TÍNH</b></h1>
 
 
 ### Packages need to be installed
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
 * [ Giảng viên hướng dẫn](#giangvien)
-* [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
@@ -38,9 +37,3 @@
 - from below link and put in data folder under your project directory
 - https://www.kaggle.com/msambare/fer2013
 
-### Train Emotion detector
-- with all face expression images in the FER2013 Dataset
-- command --> python TranEmotionDetector.py
-
-### run your emotion detection test file
-python TestEmotionDetector.py
