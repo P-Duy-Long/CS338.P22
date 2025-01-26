@@ -28,10 +28,9 @@
 * ThS. **Đỗ Văn Tiến ** 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: EMOTION DETECTION USING CNN
+Tên đồ án: EMOTION DETECTION USING CNN
+## SEMINAR
+[CS420_SEMINAR](./CS420.P11_seminar.pdf)
 ## LINK DATASET
 - https://www.kaggle.com/msambare/fer2013
-## SEMINAR
-## Presentation
-[View the presentation as PDF](./CS420_seminar.pdf)
 
