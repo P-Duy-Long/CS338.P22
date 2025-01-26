@@ -14,7 +14,7 @@
 * [ Giới thiệu môn học](#gioithieumonhoc)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Đồ án môn học](#doan)
-* [ SEMINARc](#seminar)
+* [ SEMINAR](#seminar)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Các vấn đề chọn lọc trong thị giác máy tính
