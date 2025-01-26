@@ -30,7 +30,7 @@
 <a name="doan"></a>
 Tên đồ án: EMOTION DETECTION USING CNN
 ## SEMINAR
-[CS420_SEMINAR](./CS420.P11_seminar.pdf)
+[CS420_SEMINAR](./CS420.P11_Seminar.pdf)
 ## LINK DATASET
 - https://www.kaggle.com/msambare/fer2013
 
