@@ -14,6 +14,7 @@
 * [ Giới thiệu môn học](#gioithieumonhoc)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Đồ án môn học](#doan)
+* [ SEMINARc](#seminar)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Các vấn đề chọn lọc trong thị giác máy tính
@@ -30,6 +31,7 @@
 <a name="doan"></a>
 Tên đồ án: EMOTION DETECTION USING CNN
 ## SEMINAR
+<a name="seminar"></a>
 [CS420_SEMINAR](./CS420.P11_Seminar.pdf)
 ## LINK DATASET
 - https://www.kaggle.com/msambare/fer2013
