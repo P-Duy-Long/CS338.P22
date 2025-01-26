@@ -29,11 +29,6 @@
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: EMOTION DETECTION USING CNN
-### CÁC THƯ VIỆN CẦN CÀI DẶT
-- pip install numpy
-- pip install opencv-python
-- pip install keras
-@@ -13,9 +47,4 @@
-- from below link and put in data folder under your project directory
+## LICK DATASET
 - https://www.kaggle.com/msambare/fer2013
 
