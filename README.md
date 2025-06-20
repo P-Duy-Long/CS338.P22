@@ -17,22 +17,21 @@
 * [ SEMINAR](#seminar)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
-* **Tên môn học**: Các vấn đề chọn lọc trong thị giác máy tính
-* **Mã môn học**: CS420
-* **Lớp học**: CS420.P11
+* **Tên môn học**: NHẬN DẠNG
+* **Mã môn học**: CS338
+* **Lớp học**: CS338.P22
 * **sinh viên**: Phạm Duy Long - 20521573
 <a name ="QT"></a>
 ### 3.QT IN CLASS
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* TS. **Mai Tiến Dũng ** 
-* ThS. **Đỗ Văn Tiến ** 
+* TS. **Dương Việt Hằng ** 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 Tên đồ án: EMOTION DETECTION USING CNN
 ## SEMINAR
 <a name="seminar"></a>
-[CS420_SEMINAR](./CS420.P11_Seminar.pdf)
+[CS338_SEMINAR](./CS420.P11_Seminar.pdf)
 ## LINK DATASET
 - https://www.kaggle.com/msambare/fer2013
 
