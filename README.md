@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS420.P11 - CÁC VẤN ĐỀ CHỌN LỌC TRONG THỊ GIÁC MÁY TÍNH</b></h1>
+<h1 align="center"><b>CS338.P22 - NHẬN DẠNG </b></h1>
 
 
 ### Packages need to be installed
